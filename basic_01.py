@@ -6,3 +6,6 @@ def khan(n):
     print(n)
 
 khan("it's function running")
+
+for c in 'hello':
+    print(c)
