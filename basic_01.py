@@ -7,5 +7,11 @@ def khan(n):
 
 khan("it's function running")
 
+def khan1(n):
+    print(n)
+
+khan1("it's function running")
+
+
 for c in 'hello':
     print(c)
