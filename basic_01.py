@@ -15,3 +15,4 @@ khan1("it's function running")
 
 for c in 'hello':
     print(c)
+
