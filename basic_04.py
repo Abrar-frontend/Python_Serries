@@ -8,7 +8,8 @@
 
 str = 'Hello World'
 
-print(str[0::2])
-print(str.upper())
-print(str.lower())
+# print(str[0::2])
+# print(str.upper())
+# print(str.lower())
+print(str.replace('H','B'))
 
