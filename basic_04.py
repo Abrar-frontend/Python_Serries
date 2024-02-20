@@ -6,10 +6,12 @@
 # print(random.randint(1,100))
 
 
-str = 'Hello World'
+# str = 'Hello World'
 
 # print(str[0::2])
 # print(str.upper())
 # print(str.lower())
-print(str.replace('H','B'))
 
+str = 'Hello people how how are you tell me about your your self'
+
+print(str.count('your'))
